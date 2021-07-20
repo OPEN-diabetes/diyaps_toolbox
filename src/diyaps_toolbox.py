@@ -5,7 +5,6 @@ import datetime
 import re
 import os
 
-
 def calculate_glucose_mean(glucose_values):
     return data.mean()
 
